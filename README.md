@@ -8,9 +8,9 @@ The Game of Life, also known simply as Life, is a cellular automaton devised by 
 
 ![image](https://user-images.githubusercontent.com/63847876/205386854-4abcfc4c-4c0f-4e51-8501-35cb8bc2b892.png)
 
-White Color - Cell is alive
-Light Gray Color - Cell was born
-Dark Gray Color - Cell was die
-Black Color - none, empty space
+White Color - Cell is alive,
+Light Gray Color - Cell was born,
+Dark Gray Color - Cell was die,
+Black Color - none, empty space.
 
 More info: [https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life](Wiki)
